@@ -1,0 +1,28 @@
+.panel-default{
+	margin-top: 10px; 
+}
+.panel-heading span{
+	float: right;
+}
+#num{
+	display: inline-block;
+	float: left;
+	margin: 20px 0;
+}
+.paging{
+	float: right;
+}
+.not-active {
+  pointer-events: none;
+  cursor: not-allowed;
+  color: #777;
+}
+.angka{
+	text-align: right;
+}
+.hapus{
+	cursor: pointer;
+}
+.dashboard-tittle{
+	margin: 10px 0 10px;
+}

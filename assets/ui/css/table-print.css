@@ -1,0 +1,130 @@
+body {
+	font-family: verdana, arial, sans-serif ;
+	font-size: 12px ;
+	}
+
+th,
+td {
+	padding: 4px 4px 4px 4px ;
+	text-align: center ;
+	}
+
+th {
+	border-bottom: 2px solid #333333 ;
+	}
+
+td {
+	border-bottom: 1px dotted #999999 ;
+	}
+
+tfoot td {
+	border-bottom-width: 0px ;
+	border-top: 2px solid #333333 ;
+	padding-top: 20px ;
+	}
+body{
+	margin: 0 0;
+	font-size: 13px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin: 0 0;
+}
+
+
+
+.paper{
+	width: 220mm;
+	margin: 0 auto;
+}
+
+.head h1, h2, h3, h4, h5, h6{
+	text-align: center;
+}
+
+.head table{
+	font-size: 12px;
+	margin: 0 auto;
+}
+
+.title{
+	width: 100%;
+	text-align: center;
+	margin-bottom:10px;
+}
+
+.jarak{
+	padding-right: 10px;
+}
+
+.pasien{
+	margin: 5px 0 5px 0;
+}
+
+.pasien table{
+	width: 100%;
+}
+
+.pasien table tr td{
+	vertical-align: top;
+}
+
+.pasien table tr td span{
+	float: right;
+	vertical-align: top;
+}
+
+.lebar{
+	width: 10%;
+}
+
+.kanan{
+	text-align: right;
+	font-weight: bold;
+}
+
+.rincian{
+	margin-bottom: 10px;
+}
+
+.rincian table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.rincian table tr th{
+	border: solid 1px #333;
+	padding: 4px;
+	text-align: center;
+}
+
+.rincian table tr td{
+	border: solid 1px #333;
+	padding: 3px;
+}
+
+.foot{
+	width: 100%;
+}
+
+.sign{
+	width: 50mm;
+	float: right;
+	text-align: center;
+}
+
+.sign span{
+	display: block;
+}
+
+.ttd{
+	margin-bottom: 50px; 
+}
+
+.angka{
+	text-align: right;
+}
+
+.tebal{
+	font-weight: bold;
+}
